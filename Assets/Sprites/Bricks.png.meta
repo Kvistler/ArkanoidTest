@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 51ab813141500914093ca54ff5dce877
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brick_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04dd2cc7fde5c43aa9398b8751d92a
+      internalID: -1315666014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb029bdb5c7684991b76d1d992472f
+      internalID: 372952197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624babe29ca29d4ba02194fa1ae72b1
+      internalID: 1082604778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38da3ef2199b74049834d92f77137371
+      internalID: -1308587332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dungeon_2_26: 1323053729
+      Dungeon_2_13: 1127636266
+      Dungeon_2_23: 1545023522
+      Dungeon_2_22: 374660485
+      Dungeon_2_5: 1295227611
+      Dungeon_2_41: 1509832113
+      Dungeon_2_2: 1629920469
+      Dungeon_2_29: 1969645613
+      Dungeon_2_25: 1006538481
+      Dungeon_2_49: 1650847833
+      Brick_4: -1308587332
+      Dungeon_2_52: -815097247
+      Dungeon_2_38: -1564897979
+      Dungeon_2_47: -2054390274
+      Dungeon_2_24: 434394620
+      Dungeon_2_51: 1835989051
+      Dungeon_2_3: 1119249764
+      Brick_3: 1082604778
+      Dungeon_2_37: 1740264065
+      Dungeon_2_43: -1345239182
+      Dungeon_2_32: 1059522271
+      Dungeon_2_44: -1802173630
+      Dungeon_2_27: 925473965
+      Dungeon_2_9: -662468595
+      Dungeon_2_42: 1857435664
+      Dungeon_2_45: -1902961957
+      Dungeon_2_50: 76244742
+      Dungeon_2_17: -1530309428
+      Dungeon_2_10: -272291697
+      Dungeon_2_31: 1675457870
+      Dungeon_2_39: -1898385101
+      Dungeon_2_20: 1789267428
+      Dungeon_2_0: 1803877865
+      Dungeon_2_33: 845648033
+      Dungeon_2_48: -1066957880
+      Dungeon_2_46: -1576428935
+      Dungeon_2_30: 1278357821
+      Dungeon_2_35: 875064461
+      Dungeon_2_36: 2037074406
+      Dungeon_2_4: -1308482409
+      Dungeon_2_1: 146464355
+      Dungeon_2_34: 293537622
+      Dungeon_2_19: -64591864
+      Dungeon_2_40: -1004629185
+      Dungeon_2_12: -890020379
+      Dungeon_2_8: 1325519382
+      Dungeon_2_21: -1529277701
+      Dungeon_2_28: 3515848
+      Brick_2: 372952197
+      Dungeon_2_18: 1769787345
+      Brick_1: -1315666014
+      Dungeon_2_16: 369902842
+      Dungeon_2_11: -1662115552
+      Dungeon_2_53: 322408758
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
